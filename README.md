@@ -1,5 +1,4 @@
-﻿# beingPriyanshuKumar
-
+<!--
 Hi! Thanks for using this template.
 To customize it, you'll need to do a few things:
 
@@ -12,26 +11,27 @@ Update the "About Me", "Currently Working On", and other sections with your own 
 Add or remove skills icons. You can find more at https://devicon.dev/ or https://simpleicons.org/
 
 Update the social media links to point to your profiles.
+-->
 
-
-<div id="header" align="center"> <img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9hFTxK/giphy.gif" width="100"/> <h1> Hi there, I'm [YOUR NAME] <img src="https://www.google.com/search?q=https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif%3F1531849430" width="30"/> </h1> <div id="badges"> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-username"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/> </a> <a href="https://your-twitter-username"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter Badge"/> </a> <a href="https://www.google.com/search?q=https://your-portfolio-website.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-black%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio Badge"/> </a> </div>
+<div id="header" align="center"> <img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9hFTxK/giphy.gif" width="100"/> <h1> Hi there, I'm Priyanshu Kumar <img src="https://www.google.com/search?q=https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif%3F1531849430" width="30"/> </h1> <div id="badges"> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-username"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/> </a> <a href="https://your-twitter-username"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter Badge"/> </a> <a href="https://www.google.com/search?q=https://your-portfolio-website.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-black%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio Badge"/> </a> </div>
 </div>
 
 :man_technologist: About Me :
-I am a passionate Full Stack Developer 🚀 from [Your Location]. I have a love for creating beautiful and functional web applications.
+I am a passionate Developer 🚀 from India. I have a love for creating beautiful and functional applications.
 
-🔭 I’m currently working on a cool project involving AI and web development.
+I’m currently working on a cool project involving AI and web development.
 
-🌱 I’m currently learning about Next.js and advanced animations.
+🌱 I’m currently learning about flutter and advanced animations.
 
 👯 I’m looking to collaborate on open-source projects.
 
 🤔 I’m looking for help with understanding complex algorithms.
 
-💬 Ask me about anything related to React, Node.js, or web performance.
+💬 Ask me about anything related to Html, css, Node.js, or UI/UX desing.
 
-How to reach me: priyanshu19jul@gmail.com
+📫 How to reach me: priyanshu19jul@gmail.com
 
+😄 Pronouns: He/Him
 
 ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
