@@ -1,35 +1,36 @@
-<!--# 👋 Hi, I'm Priyanshu Kumar  
+<h1>Hi there, I'm Priyanshu Kumar! 👋</h1>
+<p align="center">
+<img src="https://www.google.com/search?q=https://placehold.co/800x200/6366f1/ffffff%3Ftext%3DDeveloper%2B%2526%2BUI/UX%2BDesigner" alt="Header Banner">
+</p>
 
-I’m a **passionate developer** exploring the world of mobile and web technologies.  
-Currently, I’m focused on building **beautiful, functional apps** while sharpening my problem-solving skills.
+I'm a passionate developer and UI/UX designer with a love for creating beautiful, functional, and user-centered digital experiences. I'm always eager to learn new technologies and improve my skills.
 
----
+🌱 What I'm Currently Learning
+I'm currently focused on expanding my skills in mobile application development and strengthening my foundational knowledge.
 
-## 🌱 What I’m Learning
-- 🚀 **Dart & Flutter** – crafting cross-platform mobile apps  
-- 📱 **App Development** – end-to-end mobile solutions  
-- 🔢 **Data Structures & Algorithms** – writing efficient, clean code  
+📱 Flutter & Dart: Building cross-platform mobile apps.
 
----
+🚀 App Development: Exploring the full lifecycle of application creation.
 
-## 💻 Tech Stack
-- **Frontend:** HTML, CSS, React.js  
-- **Mobile:** Flutter (Dart)  
-- **Design:** UI/UX Design (Figma, Adobe XD, etc.)
+🧠 Data Structures & Algorithms (DSA): Sharpening my problem-solving abilities.
 
----
+💻 My Current Tech Stack
+I have a solid foundation in front-end web development and a keen eye for design.
 
-## ✨ About Me
-- 🎨 Strong eye for **UI/UX** – I love designing interfaces that are both aesthetic and user-friendly.  
-- ⚡ Curious and always learning the next big thing in tech.  
-- 🛠️ Enjoy turning ideas into reality through code.  
+Languages & Frameworks: HTML5, CSS3, JavaScript, React.js
 
----
+Design Tools: Figma, Adobe XD (You can replace these with your tools)
 
-## 📫 Let’s Connect
-- 💼 [LinkedIn](#) *(add your link)*  
-- 📧 Email: *your email here*  
+Version Control: Git & GitHub
 
-> _“Code is like art—it’s better when it’s simple, elegant, and purposeful.”_
+🎨 UI/UX Design
+Beyond coding, I have a strong passion for design. I believe a great product is not just about clean code, but also about an intuitive and delightful user experience. I enjoy turning complex problems into simple and beautiful designs.
 
+📫 How to Reach Me
+I'm always open to collaborating on projects or just having a chat. Feel free to connect with me!
 
+LinkedIn: www.linkedin.com/in/priyanshukumar190706
+
+Email: priyanshu19jul@gmail.com
+
+Thanks for visiting my profile!
