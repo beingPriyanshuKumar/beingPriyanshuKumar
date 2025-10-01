@@ -1,8 +1,8 @@
 <h1>Hi there, I'm Priyanshu Kumar! 👋</h1>
 <p align="center">
-<img src="[https://www.google.com/search?q=https://placehold.co/800x200/6366f1/ffffff%3Ftext%3DDeveloper%2B%2526%2BUI/UX%2BDesigner](https://media.licdn.com/dms/image/v2/D5616AQElUYxboxS6Kw/profile-displaybackgroundimage-shrink_350_1400/B56ZhHsuoUHkAg-/0/1753549565237?e=1761782400&v=beta&t=tbwKFTooZWZMRs5e38en9Hs30Jqneawn9ZkTLhUW5yM)" alt="Header Banner">
-</p>
 
+
+I'am a students of Army Institute of Technology, Pune
 I'm a passionate developer and UI/UX designer with a love for creating beautiful, functional, and user-centered digital experiences. I'm always eager to learn new technologies and improve my skills.
 
 🌱 What I'm Currently Learning
