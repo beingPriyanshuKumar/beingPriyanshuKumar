@@ -2,7 +2,8 @@
 <p align="center">
 
 
-I'am a students of Army Institute of Technology, Pune
+I'am a student at Army Institute of Technology, Pune
+
 I'm a passionate developer and UI/UX designer with a love for creating beautiful, functional, and user-centered digital experiences. I'm always eager to learn new technologies and improve my skills.
 
 🌱 What I'm Currently Learning
