@@ -99,3 +99,11 @@ I am a tech enthusiast with a passion for building beautiful functional applicat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117" />
 </div>
 
+<div align="center">
+  <h3>Contribution</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME_HERE/YOUR_USERNAME_HERE/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME_HERE/YOUR_USERNAME_HERE/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME_HERE/YOUR_USERNAME_HERE/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
